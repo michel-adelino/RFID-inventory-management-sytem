@@ -19,17 +19,17 @@ A Smart Inventory System leveraging RFID technology to enhance efficiency in Inb
 ## 📸 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/1_dashboard.png" alt="Dashboard" width="47%">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/2_parcels_page.png" alt="Parcels Page" width="47%">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/3_items_page.png" alt="Items Page" width="47%">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/outbound_management.png" alt="Outbound Management" width="47%">
+  <img src="github_resources/1_dashboard.png" alt="Dashboard" width="47%">
+  <img src="github_resources/2_parcels_page.png" alt="Parcels Page" width="47%">
+  <img src="github_resources/3_items_page.png" alt="Items Page" width="47%">
+  <img src="github_resources/outbound_management.png" alt="Outbound Management" width="47%">
 </div>
 
 ---
 
 <div style="display: flex; flex-direction: row; gap: 10px">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/IMG_4855.jpg" alt="RFID System" width="40%">
-  <img src="https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/IMG_4854.jpg" alt="RFID System from above" width="40%">
+  <img src="github_resources/IMG_4855.jpg" alt="RFID System" width="40%">
+  <img src="github_resources/IMG_4854.jpg" alt="RFID System from above" width="40%">
 </div>
 
 ## 🛠 Tech Stack
@@ -38,20 +38,11 @@ A Smart Inventory System leveraging RFID technology to enhance efficiency in Inb
 - **Backend**: Node.js with Express
 - **Frontend**: React, Chart.js, Ag-Grid
 
-## 📄 Report
-
-[Inbound and Outbound Management with the integration of RFID system.pdf](https://github.com/johnnycuongn/Inventory-Management-Sytem/blob/main/github_resources/IMS_Report.pdf)
-
-## 👥 Contributors
-
-- **[Duc Cuong Nguyen](https://www.linkedin.com/in/johnny-nguyen-2001jcn/)**: Analyst, Full-Stack Developer
-- **[Nam Dang](https://www.linkedin.com/in/nam-dang-680a451b0/)**: Full-Stack Developer
-
 ## 📄 License
 
 This project is licensed under the [MIT License]().
 
 ## 📬 Contact
 
-For any queries, please reach out to cuongdn2001@gmail.com.
+For any queries, please open an issue in the repository.
 
